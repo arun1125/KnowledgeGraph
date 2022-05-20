@@ -1,0 +1,1 @@
+https://programmathically.com/what-is-batch-normalization-and-how-does-it-work/

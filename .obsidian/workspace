@@ -1,0 +1,122 @@
+{
+  "main": {
+    "id": "f7c4400e9ce39611",
+    "type": "split",
+    "children": [
+      {
+        "id": "6938eb543efbd929",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Useful links.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e6806107d58f1706",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8dc87fece97d408",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c5db2e142a53433",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6e4b336a8d09c70d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cecb07c697f53e7b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 354.0036334991455
+  },
+  "right": {
+    "id": "c431d796c560954a",
+    "type": "split",
+    "children": [
+      {
+        "id": "926fb4d25a1531a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abaffdd5f56f7594",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Useful links.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e32cec379bb54ebe",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6938eb543efbd929",
+  "lastOpenFiles": [
+    "Useful links.md",
+    "Experimentation/Statistical Significance and P values.md",
+    "Experimentation/AB Test.md",
+    "Experimentation/Bayesian AB Test.md",
+    "Metrics/Click Through Rate.md",
+    "Metrics/Successful Session Rate.md",
+    "Machine Learning Systems Design/Problems/Design Search Ranking.md",
+    "Recommendation systems.md",
+    "Experimentation/Determining Sample Size.md",
+    "Marketing and Advertising/Marketing.md"
+  ]
+}

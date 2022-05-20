@@ -1,0 +1,1 @@
+https://www.quora.com/What-is-an-intuitive-explanation-for-bias-variance-tradeoff
