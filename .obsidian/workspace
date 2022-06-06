@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Useful links.md",
+            "file": "NEW NOTE TEST.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Useful links.md",
+                "file": "NEW NOTE TEST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +108,7 @@
   },
   "active": "6938eb543efbd929",
   "lastOpenFiles": [
+    "NEW NOTE TEST.md",
     "Useful links.md",
     "Experimentation/Statistical Significance and P values.md",
     "Experimentation/AB Test.md",
@@ -116,7 +117,6 @@
     "Metrics/Successful Session Rate.md",
     "Machine Learning Systems Design/Problems/Design Search Ranking.md",
     "Recommendation systems.md",
-    "Experimentation/Determining Sample Size.md",
-    "Marketing and Advertising/Marketing.md"
+    "Experimentation/Determining Sample Size.md"
   ]
 }
